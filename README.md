@@ -1,2 +1,2 @@
-# Class-Booking
-Program to class booking
+# Room reservation
+Program to room reservation
